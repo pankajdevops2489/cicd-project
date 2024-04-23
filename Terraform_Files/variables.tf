@@ -1,0 +1,11 @@
+variable "rg_name" {}
+variable "location" {}
+variable "vnet_name" {}
+variable "sub1_name" {}
+variable "sub2_name" {}
+variable "public_ip1_name" {}
+variable "public_ip2_name" {}
+variable "nic1_name" {}
+variable "nic2_name" {}
+variable "jenkins_vm_name" {}
+variable "node_vm_name" {}
